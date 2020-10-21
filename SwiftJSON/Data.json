@@ -1,0 +1,20 @@
+[
+{
+    "name": "French",
+    "id": 3,
+    "sentence": {
+        "sentence1": "Je mange la pomme",
+        "sentence2": "C’est la pomme de John",
+        "sentence3": "Je donne la pomme à John",
+        "sentence4": "On lui donne la pomme",
+        "sentence5": "Il la donne à John",
+        "sentence6": "Elle la lui donne",
+        "sentence7": "Est-ce que la pomme est rouge? or Elle est rouge, la pomme?",
+        "sentence8": "Les pommes est rouges",
+        "sentence9": "Je dois la lui donner",
+        "sentence10": "Je veux la lui donner",
+        "sentence11": "Je le saurai demain",
+        "sentence12": "Je ne peux pas manger la pomme"
+    }
+}
+]
