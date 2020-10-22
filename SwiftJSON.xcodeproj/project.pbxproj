@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		DBCDC5FD254162BE00930224 /* JsonTest.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCDC5FC254162BE00930224 /* JsonTest.json */; };
 		DBEE25A325401F3400D75560 /* SwiftJSONApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEE25A225401F3400D75560 /* SwiftJSONApp.swift */; };
-		DBEE25A525401F3400D75560 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEE25A425401F3400D75560 /* ContentView.swift */; };
+		DBEE25A525401F3400D75560 /* SwiftJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEE25A425401F3400D75560 /* SwiftJSON.swift */; };
 		DBEE25A725401F3500D75560 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBEE25A625401F3500D75560 /* Assets.xcassets */; };
 		DBEE25AA25401F3500D75560 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBEE25A925401F3500D75560 /* Preview Assets.xcassets */; };
 		DBEE25C725402D2900D75560 /* Data.json in Resources */ = {isa = PBXBuildFile; fileRef = DBEE25C625402D2900D75560 /* Data.json */; };
@@ -20,7 +20,7 @@
 		DBCDC5FC254162BE00930224 /* JsonTest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = JsonTest.json; sourceTree = "<group>"; };
 		DBEE259F25401F3400D75560 /* SwiftJSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftJSON.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBEE25A225401F3400D75560 /* SwiftJSONApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftJSONApp.swift; sourceTree = "<group>"; };
-		DBEE25A425401F3400D75560 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		DBEE25A425401F3400D75560 /* SwiftJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftJSON.swift; sourceTree = "<group>"; };
 		DBEE25A625401F3500D75560 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DBEE25A925401F3500D75560 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DBEE25AB25401F3500D75560 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -59,7 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				DBEE25A225401F3400D75560 /* SwiftJSONApp.swift */,
-				DBEE25A425401F3400D75560 /* ContentView.swift */,
+				DBEE25A425401F3400D75560 /* SwiftJSON.swift */,
 				DBEE25A625401F3500D75560 /* Assets.xcassets */,
 				DBEE25AB25401F3500D75560 /* Info.plist */,
 				DBEE25C625402D2900D75560 /* Data.json */,
@@ -150,7 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBEE25A525401F3400D75560 /* ContentView.swift in Sources */,
+				DBEE25A525401F3400D75560 /* SwiftJSON.swift in Sources */,
 				DBEE25A325401F3400D75560 /* SwiftJSONApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,8 +1,15 @@
+//
+//  SwiftJSON.swift
+//  signupfirebase
+//
+//  Created by Jan  on 22/10/2020.
+//  Copyright © 2020 Jan . All rights reserved.
+
 import SwiftUI
 
 /// Sjekke json: https://jsonformatter.curiousconcept.com/#
 
-// MARK: - WelcomeDetailElement
+// MARK: - Person
 struct Person: Codable, Identifiable {
     var id: String
     var author: Author
@@ -36,7 +43,7 @@ struct PersonData:Codable {
     var postalCodeNumber: String
 }
 
-struct ContentView: View {
+struct SwiftJSON: View {
     
     @State var result : [Person] = []
     

@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftJSONApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SwiftJSON()
         }
     }
 }
