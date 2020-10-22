@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DBCDC5FD254162BE00930224 /* JsonTest.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCDC5FC254162BE00930224 /* JsonTest.json */; };
 		DBEE25A325401F3400D75560 /* SwiftJSONApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEE25A225401F3400D75560 /* SwiftJSONApp.swift */; };
 		DBEE25A525401F3400D75560 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEE25A425401F3400D75560 /* ContentView.swift */; };
 		DBEE25A725401F3500D75560 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBEE25A625401F3500D75560 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DBCDC5FC254162BE00930224 /* JsonTest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = JsonTest.json; sourceTree = "<group>"; };
 		DBEE259F25401F3400D75560 /* SwiftJSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftJSON.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBEE25A225401F3400D75560 /* SwiftJSONApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftJSONApp.swift; sourceTree = "<group>"; };
 		DBEE25A425401F3400D75560 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				DBEE25C625402D2900D75560 /* Data.json */,
 				DBEE25CA2540867A00D75560 /* Firebase.json */,
 				DBEE25A825401F3500D75560 /* Preview Content */,
+				DBCDC5FC254162BE00930224 /* JsonTest.json */,
 			);
 			path = SwiftJSON;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DBEE25AA25401F3500D75560 /* Preview Assets.xcassets in Resources */,
+				DBCDC5FD254162BE00930224 /* JsonTest.json in Resources */,
 				DBEE25A725401F3500D75560 /* Assets.xcassets in Resources */,
 				DBEE25CB2540867A00D75560 /* Firebase.json in Resources */,
 				DBEE25C725402D2900D75560 /* Data.json in Resources */,

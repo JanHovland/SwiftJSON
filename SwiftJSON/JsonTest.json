@@ -1,0 +1,29 @@
+[
+    {
+        "id": "-LZiiqBNVS5LjxQ38EQd",
+        "author" : {
+            "email" : "jan.hovland@lyse.net",
+            "photoURL" : "https://firebasestorage.googleapis.com/v0/b/signupfirebase-236b9.appspot.com/o/photos%2Fjan.hovland@lyse.net.png?alt=media&token=de59446c-2e8d-4539-a0ea-822144449264",
+            "uid" : "oKtwnomNTFWB7RPE6hIMdI2F7kt2",
+            "username" : "Jan Hovland"
+        },
+        "personData" : {
+            "address" : "Kvernfallveien 3",
+            "city" : "Lye",
+            "dateOfBirth1" : "3. april 1980",
+            "dateOfBirth2" : "04-03",
+            "firstName" : "Astrid",
+            "gender" : 1,
+            "lastName" : "Hovland",
+            "municipality" : "Time",
+            "municipalityNumber" : "1121",
+            "name" : "ASTRID HOVLAND",
+            "personEmail" : " a@b.vom",
+            "phoneNumber" : "+47 404 85 402",
+            "photoURL" : "https://firebasestorage.googleapis.com/v0/b/signupfirebase-236b9.appspot.com/o/photos%2F-LZiiqBNVS5LjxQ38EQd.png?alt=media&token=7daac976-9fa6-403e-af5c-2aabc320bfc5",
+            "postalCodeNumber" : "4347"
+        },
+        "timestamp" : 1603217052574
+    }
+    
+]
