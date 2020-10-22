@@ -45,6 +45,8 @@ struct PersonData:Codable {
 
 struct SwiftJSON: View {
     
+    let jsonFile = "Data.json"
+
     @State var result : [Person] = []
     
     var body: some View{
@@ -56,7 +58,7 @@ struct SwiftJSON: View {
     
     func parseJson() {
         
-        if let url = Bundle.main.url(forResource: "Data.json", withExtension: nil) {
+        if let url = Bundle.main.url(forResource: jsonFile, withExtension: nil) {
 
             if let data = try? Data(contentsOf: url){
 
